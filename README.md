@@ -17,4 +17,4 @@ This project is not currently accepting outside contributions. It is strictly a 
 
 ## Acknowledgements
 
-Website powered by [HonKit](https://github.com/honkit/honkit). Theme by [Stuyk](https://github.com/Stuyk/honkit-plugin-theme-darkening).
+Website powered by [HonKit](https://github.com/honkit/honkit). Theme is a custom fork of [Darkening by Stuyk](https://github.com/Stuyk/honkit-plugin-theme-darkening).
