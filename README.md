@@ -9,7 +9,7 @@ Zero to Hero, a knowledge base for all sorts of computer hacking. This website i
 
 ## Feedback
 
-Got feedback? Open up a [GitHub Issue](https://github.com/shawnduong/02h/issues) or email me@shawnd.xyz.
+Got feedback? Open up a [GitHub Issue](https://github.com/shawnduong/02h/issues) or email [me@shawnd.xyz](mailto:me@shawnd.xyz).
 
 ## Contributions
 
