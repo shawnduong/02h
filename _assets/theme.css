@@ -138,7 +138,6 @@ p {
 }
 
 ul li a {
-	color: #afafaf !important;
 	font-weight: bold !important;
 }
 
@@ -159,7 +158,6 @@ pre {
 .language,
 .code,
 code[class*="language-"],
-.markdown-section,
 code[class*="language-"],
 pre[class*="language-"] {
 	font-family: 'Fira Code', monospace !important;
