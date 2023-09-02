@@ -123,6 +123,7 @@ p {
 
 .markdown-section table {
 	border: transparent !important;
+	width: auto !important;
 }
 
 .markdown-section table tr {
