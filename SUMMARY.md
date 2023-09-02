@@ -1,5 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [Computer Networking](net/README.md)
-* [Digital Forensics](forens/README.md)
+- [Introduction](README.md)
+- [Computer Networking](net/README.md)
+- [Digital Forensics](forens/README.md)
+- [Hardware](hardware/README.md)
