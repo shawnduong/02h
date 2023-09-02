@@ -1,6 +1,6 @@
 # Computer Networking
 
-Computer networking is the branch of computer science concerned with the communication of computer devices.
+Computer networking is the branch of computer science concerned with the communication of computer devices between each other.
 
 The realm of computer networking includes:
 - the research and development of network protocols and technologies;
