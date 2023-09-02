@@ -1,4 +1,5 @@
 {
 	"title": "02h",
-	"description": "Zero to Hero, a knowledge base for all sorts of computer hacking. This website is maintained as a personal passion project."
+	"description": "Zero to Hero, a knowledge base for all sorts of computer hacking. This website is maintained as a personal passion project.",
+	"plugins": ["toggle-chapters"]
 }
