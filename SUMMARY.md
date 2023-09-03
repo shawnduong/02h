@@ -10,5 +10,6 @@
   - [Communication Protocols](hardware/comms/README.md)
     - [Serial Peripheral Interface (SPI)](hardware/comms/SPI.md)
   - [Integrated Circuits](hardware/ics/README.md)
+    - [74HC595](hardware/ics/74hc595.md)
   - [Boards](hardware/boards/README.md)
 - [Glossary](GLOSSARY.md)
