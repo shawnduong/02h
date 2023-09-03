@@ -8,6 +8,10 @@ When the signal is low, the logic is high. This is commonly represented with an 
 
 When the signal is high, the logic is high.
 
+## conductor
+
+A material through which charge can easily flow.
+
 ## daisy chain configuration
 
 A configuration in which the output of one component is the input of another component for all components in the configuration.
