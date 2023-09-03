@@ -10,13 +10,13 @@ An electric charge is the fundamental property of matter that results from an im
 
 Electric charges alone produce electric fields, and moving electric charges additionally produce magnetic fields.
 
-Electric charge is measured in units of coulombs (C), which is defined as the amount of charge 1 amp delivers in 1 second. It is equal to the charge of $6.242 \times 10^{18}$ electrons.
+Electric charge is measured in units of coulombs ($C$), which is defined as the amount of charge 1 amp delivers in 1 second. It is equal to the charge of $6.242 \times 10^{18}$ electrons.
 
 ## Voltage
 
 Voltage, often referred to as electric potential or electromotive force (EMF), is a measure of the difference in potential energy between two points.
 
-Voltage is measured in volts (V) and is the force that causes electric charges to move in a circuit.
+Voltage is measured in volts ($V$) and is the force that causes electric charges to move in a circuit.
 
 ## Current
 
@@ -24,7 +24,7 @@ Electric current is the flow of electric charge through a conductor.
 
 By convention, current is said to flow from points of higher voltage to points of lower voltage. In actuality, electrons flow in the opposite direction, but conventional current flow remains the convention used by scientists and engineers today.
 
-Current is measured in amperes (A, also called amps) and represents the rate at which charge moves through a circuit.
+Current is measured in amperes ($A$, also called amps) and represents the rate at which charge moves through a circuit.
 
 ## Resistance
 
