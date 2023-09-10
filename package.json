@@ -1,0 +1,19 @@
+{
+  "name": "02h",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "3.7.1"
+  },
+  "dependencies": {
+    "gitbook-plugin-toggle-chapters": "^0.0.3",
+    "honkit-plugin-katex": "^1.1.7"
+  }
+}
